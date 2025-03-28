@@ -19,5 +19,5 @@ This is a simple note-taking API built using Django and Django REST framework. I
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/note-taking-api.git
+   git clone https://github.com/rajatb04/note-taking-api.git
    cd note-taking-api
